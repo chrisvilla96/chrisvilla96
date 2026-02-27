@@ -1,5 +1,6 @@
 # 💫 About Me:
-Telecommunications and Electronics Engineer that found passion for software development 🧑‍💻<br>I'm a Software Developer, currently working in [Alluxi](https://www.linkedin.com/company/alluxi-mx/mycompany/).<br>I'm looking to collaborate in projects that represents a challange.<br>I'm currently learning more about Machine Learning and AI, using Python 🐍
+Full Stack Engineer with experience in Python/Django, React, and TypeScript. Built and shipped integrations, data pipelines, and real-time platforms for startups and established companies across fintech, logistics, and telecom. Focused on clean architecture, system reliability, and pragmatic solutions that move the needle.
+
 
 
 ## 🌐 Socials:
